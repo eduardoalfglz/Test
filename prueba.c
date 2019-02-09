@@ -1,7 +1,8 @@
 #include<stdio.h>
 
 int main(int argc, char const *argv[]) {
-  int char[5]="hola";
-  int char[5]="adios";
+  char adios[5]="hola";
+  char adios[5]="adios";
+  int cantidad =8;
   return 0;
 }
